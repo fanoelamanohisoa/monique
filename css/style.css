@@ -13,6 +13,14 @@
     font-family: cursive;
 }
 
+.navbar select.goog-te-combo {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    transform: translateY(-25%);
+    border-radius: 5px;
+}
+
 nav.navbar {
     display: flex
 ;
