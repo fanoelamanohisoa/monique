@@ -13,6 +13,13 @@
     font-family: cursive;
 }
 
+.navbar .goog-te-gadget {
+    font-family: arial;
+    font-size: 11px;
+    color: transparent;
+    white-space: nowrap;
+}
+
 .navbar select.goog-te-combo {
     background-color: black;
     color: white;
